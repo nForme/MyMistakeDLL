@@ -1,0 +1,6 @@
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\bin\Debug\MyMistake.dll
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\bin\Debug\MyMistake.pdb
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\obj\Debug\MyMistake.csprojAssemblyReference.cache
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\obj\Debug\MyMistake.csproj.CoreCompileInputs.cache
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\obj\Debug\MyMistake.dll
+C:\Users\kazantsev.dl0802\Source\Repos\nForme\MyMistakeDLL\MyMistake\obj\Debug\MyMistake.pdb
